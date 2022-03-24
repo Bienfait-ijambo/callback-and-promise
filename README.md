@@ -8,4 +8,4 @@ callback : is a way for handling ansynchronous code in javascript
 
 callback hell: means nested functions
 
-promise : is an operation that returns a result and it allows to avoid callback hell
+promise : is alternative to callback but the provides a way to writing clean code rather than callback and it allows to avoid callback hell
